@@ -1,0 +1,22 @@
+.main.container {
+    padding: 10px 0;
+}
+
+
+.submit-button {
+    margin-top: 24px !important;
+    float: right;
+}
+
+.data {
+    margin-top: 15px;
+}
+
+thead tr th {
+    background: #e0e0e0 !important;
+}
+
+.ui.inverted.dimmer {
+    background-color: rgba(49, 19, 221, 0) !important;
+}
+
